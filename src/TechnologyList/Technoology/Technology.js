@@ -23,6 +23,8 @@ class Technology extends Component {
                 return <Description name='C'/>
             case "ReactJS":
                 return <Description name='ReactJS'/>
+            default :
+                return "Not yet implemented"
         }
     }
 

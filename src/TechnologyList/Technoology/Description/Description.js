@@ -22,6 +22,8 @@ class Description extends Component {
               return <CContent/>
             case 'ReactJS':
               return <ReactJSContent/>
+            default :
+                return "Not implemented yet"
         }
     }
 

@@ -12,7 +12,7 @@ const CSHarpContent = () => {
     <th>Source</th>
   </tr>
   <tr>
-    <td>Robot </td>
+    <td>Robot War</td>
     <td>A basic and simple Winform Project</td>
     <td><a href='https://github.com/MatthieuHeurtin/RobotWar' target='_blank'>Link</a></td>
   </tr>
