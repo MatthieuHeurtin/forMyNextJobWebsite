@@ -1,0 +1,66 @@
+.body
+{
+    width: 75%;
+    height: 80%;;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    background-image: linear-gradient(#ddd3ee,#ffffff ); 
+    box-shadow: 6px 6px 0px black;
+    padding-bottom: 40%; 
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p
+{
+    padding-left : 10px;
+    padding-right : 10px;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.italic
+{
+    font-style: italic;
+}
+.red 
+{
+    color:red;
+}
+#nextButton
+{
+
+    padding: 2%;
+    margin: 1% auto;
+    text-align: center;
+}
+
+.buttons
+{   
+    margin-left: 45%;
+    display: block;
+}
+
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    width: 100%;
+}
+
+td, th
+{
+    padding-right: 6%;
+    padding-left :1%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
