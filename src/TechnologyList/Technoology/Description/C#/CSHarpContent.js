@@ -21,6 +21,11 @@ const CSHarpContent = () => {
     <td>A short dependencies injector</td>
     <td><a href='https://github.com/MatthieuHeurtin/Injector' target='_blank'>Link</a></td>
   </tr>
+  <tr>
+    <td>DLL explorer</td>
+    <td>A DLL explorer that I developed during my internship</td>
+    <td><a href='https://github.com/MatthieuHeurtin/DLLExplorer/tree/master' target='_blank'>Link</a></td>
+  </tr>
 </table> 
 </p>
 );
