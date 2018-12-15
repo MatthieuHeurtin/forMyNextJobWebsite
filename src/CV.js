@@ -63,7 +63,7 @@ Key skills:
 </ul>  
 <span class='bold'>SGCIB – C# Developer</span>
 <br/>
-<span class='italic'>September 2015 – March 2017</span>
+<span class='italic'>September 2016 – March 2017</span>
 <br/>
 I was working on an application of calculus of liquidity risk. We gathered data from back office then we had to provide several reports such as Liquidity Coverage Ratio and Net stable funding ratio. The application, called Liqor, was in SQL but for performance and stability reasons it was decided to re-develop it in C#.
 On a daily basis I had to translate SQL store procedure in testable, maintainable and fast C# code.
@@ -77,7 +77,7 @@ Key skills:
 </ul>  
 <span class='bold'>UL Transaction Security – C# Developer</span>
 <br/>
-<span class='italic'>March 2015 – August  2015</span>
+<span class='italic'>March 2016 – August  2016</span>
 <br/>
 A six month internship where I had to develop a software to help my colleagues to perform operations on chips.  The sofware, Zeus, was a GUI using Winforms. Its main purpose was to load/unload DLL and calls functions from them. It was basically a Lua IDE able to call C# functions, from Lua scripts.
 <br/>

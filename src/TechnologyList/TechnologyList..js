@@ -7,6 +7,7 @@ import Technology from './Technoology/Technology'
 class TechnologyList extends Component {
     constructor(props){
         super(props)
+        this.state = {panels : props.panels}
     }
 
     render(){

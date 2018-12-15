@@ -26,6 +26,11 @@ const CSHarpContent = () => {
     <td>A DLL explorer that I developed during my internship</td>
     <td><a href='https://github.com/MatthieuHeurtin/DLLExplorer/tree/master' target='_blank'>Link</a></td>
   </tr>
+  <tr>
+    <td>WPF Animation</td>
+    <td>Sone WPF projects Gathered in one project</td>
+    <td><a href='https://github.com/MatthieuHeurtin/WPFAnimation' target='_blank'>Link</a></td>
+  </tr>
 </table> 
 </p>
 );
